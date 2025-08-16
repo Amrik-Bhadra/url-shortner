@@ -22,3 +22,4 @@
 ---
 ## Database Setup
 ### EDA
+![url-shortner-sb-eda](https://github.com/user-attachments/assets/10ad6511-2a31-406c-97da-a7466851ff82)
